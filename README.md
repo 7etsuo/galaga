@@ -1,6 +1,10 @@
 # Terminal Galaga
 
+<img width="1444" height="765" alt="image" src="https://github.com/user-attachments/assets/98ddc735-9ba4-491a-a137-960938b4ae60" />
+
 A fast-paced, feature-rich Galaga clone built entirely for the terminal using raw ANSI escape codes in C.
+
+Built using Grok4 with love. 
 
 ## Features
 
